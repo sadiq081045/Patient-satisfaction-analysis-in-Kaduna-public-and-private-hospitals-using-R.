@@ -1,0 +1,51 @@
+Age,Gender,Education,Occupation,Hospital Name,Waiting Time,Cleanliness,Staff Politeness,Privacy Respected,Comfortable Asking Questions,Doctor Satisfaction,Health Concerns Resolved,Equipment Availability,Medication Availability,Cost of Treatment,Accessibility,Booking Difficulties,Overall Satisfaction,Recommend Hospital,Public vs Private Difference
+30-49,Male,Secondary,Self-employed,Barau Dikko Teaching Hospital,30–60 minutes,Poor,No,No,No,Satisfied,Yes,Fair,No,Very expensive,Very accessible,Yes,Very dissatisfied,No,Waiting time
+30-49,Male,Secondary,Private sector employee,Barau Dikko Teaching Hospital,Over 1 hour,Fair,No,No,Yes,Neutral,No,Poor,Yes,Expensive,Accessible,Yes,Dissatisfied,No,Cost
+50 and above,Male,No formal education,Student,Barau Dikko Teaching Hospital,Over 1 hour,Poor,No,No,Yes,Satisfied,Yes,Poor,Yes,Affordable,Not accessible,No,Satisfied,No,None
+30-49,Female,Primary,Private sector employee,Barau Dikko Teaching Hospital,Over 1 hour,Excellent,No,No,Yes,Neutral,Partially,Poor,Yes,Affordable,Accessible,Yes,Neutral,Yes,None
+Below 18,Male,Secondary,Unemployed,Barau Dikko Teaching Hospital,Over 1 hour,Good,Yes,Yes,Yes,Neutral,Yes,Poor,Yes,Expensive,Not accessible,Yes,Very dissatisfied,Yes,Facilities
+Below 18,Female,Tertiary,Private sector employee,Barau Dikko Teaching Hospital,30–60 minutes,Excellent,Yes,No,Yes,Satisfied,No,Good,No,Expensive,Accessible,Yes,Very satisfied,Yes,Facilities
+30-49,Male,No formal education,Student,Barau Dikko Teaching Hospital,Over 1 hour,Poor,Yes,Yes,Yes,Very dissatisfied,Partially,Poor,No,Very affordable,Not accessible,No,Very dissatisfied,No,Waiting time
+Below 18,Male,Tertiary,Private sector employee,Barau Dikko Teaching Hospital,30–60 minutes,Good,No,Yes,Yes,Very satisfied,Partially,Excellent,Yes,Very affordable,Accessible,No,Very satisfied,Yes,Facilities
+30-49,Female,Primary,Public sector employee,Barau Dikko Teaching Hospital,Less than 15 minutes,Good,No,No,No,Very dissatisfied,Partially,Good,No,Very affordable,Not accessible,Yes,Very satisfied,No,Facilities
+50 and above,Male,Tertiary,Public sector employee,Barau Dikko Teaching Hospital,15–30 minutes,Fair,No,No,Yes,Very satisfied,Yes,Good,Yes,Expensive,Very accessible,No,Very dissatisfied,Yes,Facilities
+18-29,Female,Secondary,Unemployed,Barau Dikko Teaching Hospital,30–60 minutes,Good,No,No,Yes,Very dissatisfied,Yes,Poor,No,Affordable,Accessible,No,Satisfied,No,Facilities
+18-29,Female,Tertiary,Self-employed,Barau Dikko Teaching Hospital,30–60 minutes,Excellent,No,Yes,Yes,Satisfied,No,Poor,No,Affordable,Very accessible,Yes,Neutral,Yes,Facilities
+Below 18,Male,Tertiary,Public sector employee,Barau Dikko Teaching Hospital,15–30 minutes,Excellent,Yes,Yes,Yes,Dissatisfied,Partially,Good,Yes,Affordable,Not accessible,No,Very satisfied,Yes,None
+50 and above,Female,Tertiary,Self-employed,Barau Dikko Teaching Hospital,Less than 15 minutes,Poor,No,Yes,Yes,Dissatisfied,Partially,Fair,No,Affordable,Accessible,Yes,Very satisfied,Yes,None
+Below 18,Female,No formal education,Self-employed,Barau Dikko Teaching Hospital,Less than 15 minutes,Excellent,No,Yes,Yes,Very satisfied,Partially,Poor,No,Expensive,Not accessible,Yes,Very dissatisfied,No,Cost
+Below 18,Female,Primary,Self-employed,Barau Dikko Teaching Hospital,30–60 minutes,Good,No,Yes,Yes,Satisfied,Yes,Good,No,Very expensive,Very accessible,No,Very satisfied,No,Doctor availability
+Below 18,Female,Tertiary,Unemployed,Barau Dikko Teaching Hospital,Over 1 hour,Fair,Yes,Yes,Yes,Satisfied,No,Excellent,No,Very expensive,Accessible,No,Satisfied,Yes,Doctor availability
+18-29,Female,Secondary,Self-employed,Barau Dikko Teaching Hospital,Less than 15 minutes,Excellent,No,No,Yes,Neutral,Partially,Excellent,No,Very affordable,Accessible,Yes,Neutral,No,Facilities
+18-29,Female,No formal education,Public sector employee,Barau Dikko Teaching Hospital,15–30 minutes,Poor,Yes,No,Yes,Satisfied,No,Poor,Yes,Expensive,Not accessible,No,Neutral,Yes,Doctor availability
+30-49,Male,Tertiary,Unemployed,Barau Dikko Teaching Hospital,Less than 15 minutes,Poor,No,Yes,No,Dissatisfied,No,Excellent,Yes,Expensive,Not accessible,No,Very dissatisfied,Yes,Facilities
+30-49,Male,Primary,Student,Barau Dikko Teaching Hospital,Less than 15 minutes,Good,No,No,Yes,Very dissatisfied,No,Fair,No,Affordable,Not accessible,No,Very dissatisfied,No,Waiting time
+50 and above,Male,Primary,Unemployed,Barau Dikko Teaching Hospital,15–30 minutes,Good,No,No,No,Satisfied,No,Poor,Yes,Very affordable,Not accessible,Yes,Dissatisfied,No,Waiting time
+50 and above,Male,No formal education,Unemployed,Barau Dikko Teaching Hospital,15–30 minutes,Excellent,No,No,Yes,Satisfied,Yes,Fair,Yes,Very expensive,Accessible,Yes,Neutral,Yes,Facilities
+30-49,Female,Primary,Private sector employee,Barau Dikko Teaching Hospital,Less than 15 minutes,Excellent,No,No,No,Dissatisfied,Yes,Good,No,Very affordable,Accessible,No,Very satisfied,Yes,None
+50 and above,Female,Primary,Unemployed,Barau Dikko Teaching Hospital,Over 1 hour,Good,Yes,No,Yes,Satisfied,No,Fair,Yes,Very affordable,Not accessible,Yes,Dissatisfied,Yes,None
+30-49,Female,No formal education,Student,Dialogue Hospital,30–60 minutes,Poor,Yes,Yes,No,Very dissatisfied,No,Fair,Yes,Expensive,Very accessible,No,Dissatisfied,No,Cost
+18-29,Female,No formal education,Student,Dialogue Hospital,Less than 15 minutes,Excellent,No,Yes,Yes,Satisfied,No,Poor,Yes,Expensive,Not accessible,No,Dissatisfied,No,Facilities
+18-29,Male,Primary,Unemployed,Dialogue Hospital,15–30 minutes,Poor,No,Yes,No,Very satisfied,Partially,Excellent,Yes,Affordable,Very accessible,No,Very satisfied,No,None
+Below 18,Female,Tertiary,Self-employed,Dialogue Hospital,Less than 15 minutes,Good,Yes,No,No,Very satisfied,Yes,Fair,No,Affordable,Very accessible,Yes,Very dissatisfied,Yes,Waiting time
+30-49,Male,Tertiary,Public sector employee,Dialogue Hospital,30–60 minutes,Good,No,Yes,No,Very dissatisfied,Partially,Excellent,No,Very affordable,Accessible,Yes,Very satisfied,Yes,Doctor availability
+50 and above,Female,Secondary,Public sector employee,Dialogue Hospital,30–60 minutes,Fair,No,No,Yes,Dissatisfied,Yes,Good,Yes,Affordable,Not accessible,No,Satisfied,No,Cost
+Below 18,Male,Primary,Unemployed,Dialogue Hospital,15–30 minutes,Excellent,Yes,Yes,No,Satisfied,No,Fair,Yes,Very affordable,Accessible,No,Very satisfied,Yes,Cost
+18-29,Female,Tertiary,Student,Dialogue Hospital,30–60 minutes,Good,Yes,Yes,Yes,Satisfied,No,Poor,Yes,Expensive,Accessible,No,Very dissatisfied,No,Doctor availability
+30-49,Male,Tertiary,Self-employed,Dialogue Hospital,Less than 15 minutes,Good,No,Yes,No,Very dissatisfied,Partially,Fair,Yes,Very affordable,Not accessible,No,Dissatisfied,Yes,Facilities
+Below 18,Female,Primary,Public sector employee,Dialogue Hospital,Less than 15 minutes,Excellent,No,Yes,No,Neutral,Yes,Excellent,Yes,Expensive,Very accessible,Yes,Very satisfied,Yes,None
+50 and above,Male,No formal education,Public sector employee,Dialogue Hospital,30–60 minutes,Good,No,No,Yes,Satisfied,No,Fair,Yes,Affordable,Not accessible,Yes,Dissatisfied,No,Cost
+18-29,Male,Secondary,Private sector employee,Dialogue Hospital,30–60 minutes,Excellent,No,Yes,No,Neutral,No,Excellent,Yes,Very affordable,Not accessible,No,Very dissatisfied,Yes,Doctor availability
+18-29,Male,Secondary,Private sector employee,Dialogue Hospital,30–60 minutes,Good,No,No,No,Very satisfied,No,Good,No,Expensive,Accessible,No,Very dissatisfied,No,Waiting time
+50 and above,Male,Secondary,Public sector employee,Dialogue Hospital,15–30 minutes,Excellent,Yes,Yes,Yes,Dissatisfied,Partially,Excellent,Yes,Expensive,Very accessible,No,Satisfied,No,Cost
+18-29,Male,No formal education,Unemployed,Dialogue Hospital,30–60 minutes,Poor,Yes,Yes,Yes,Dissatisfied,Yes,Poor,Yes,Affordable,Not accessible,Yes,Satisfied,No,Cost
+Below 18,Female,Tertiary,Self-employed,Dialogue Hospital,15–30 minutes,Poor,No,Yes,Yes,Dissatisfied,Yes,Fair,No,Expensive,Very accessible,Yes,Very dissatisfied,Yes,None
+50 and above,Male,No formal education,Private sector employee,Dialogue Hospital,15–30 minutes,Fair,No,No,No,Dissatisfied,No,Fair,No,Affordable,Not accessible,Yes,Dissatisfied,No,Waiting time
+30-49,Female,No formal education,Public sector employee,Dialogue Hospital,Less than 15 minutes,Excellent,No,Yes,No,Very satisfied,Partially,Good,No,Affordable,Very accessible,Yes,Dissatisfied,No,Facilities
+50 and above,Female,No formal education,Student,Dialogue Hospital,Less than 15 minutes,Fair,No,Yes,No,Satisfied,Yes,Poor,No,Very affordable,Not accessible,Yes,Neutral,Yes,Waiting time
+18-29,Male,Primary,Private sector employee,Dialogue Hospital,15–30 minutes,Excellent,No,No,No,Satisfied,Yes,Fair,Yes,Affordable,Not accessible,No,Neutral,No,Cost
+18-29,Female,Secondary,Unemployed,Dialogue Hospital,15–30 minutes,Fair,No,No,No,Dissatisfied,Partially,Poor,Yes,Expensive,Very accessible,No,Neutral,Yes,Facilities
+50 and above,Male,Tertiary,Unemployed,Dialogue Hospital,Less than 15 minutes,Fair,Yes,No,Yes,Dissatisfied,Yes,Poor,Yes,Very affordable,Accessible,No,Dissatisfied,Yes,None
+30-49,Male,Secondary,Self-employed,Dialogue Hospital,30–60 minutes,Poor,Yes,No,No,Very dissatisfied,Yes,Good,Yes,Very affordable,Very accessible,No,Very satisfied,No,Doctor availability
+30-49,Female,Primary,Unemployed,Dialogue Hospital,Less than 15 minutes,Poor,No,Yes,Yes,Dissatisfied,Partially,Excellent,Yes,Affordable,Not accessible,Yes,Very dissatisfied,No,None
+50 and above,Male,Tertiary,Public sector employee,Dialogue Hospital,30–60 minutes,Good,Yes,No,Yes,Dissatisfied,Yes,Poor,No,Very affordable,Accessible,No,Neutral,Yes,None
